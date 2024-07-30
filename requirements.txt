@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+langchain
+langchain_community
+langchain_core
+pypdf
+sentence_transformers
+faiss-cpu
